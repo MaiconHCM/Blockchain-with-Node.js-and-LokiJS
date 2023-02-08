@@ -1,0 +1,16 @@
+{
+  "name": "Blockchain-with-Node.js-and-LokiJS",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "lokijs": "^1.5.12"
+  }
+}
